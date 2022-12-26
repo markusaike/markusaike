@@ -1,5 +1,5 @@
 # 💫 About Me:
-Fullstack Developer based in Brazil<br>Currently building stuff providing and service at MercadoLibre<br>
+Back-end Developer based in Brazil<br>Currently building stuff providing and service at MercadoLibre<br>
 
 
 ## 🌐 Socials:
